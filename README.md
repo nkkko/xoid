@@ -89,6 +89,8 @@ Visit <a href="https://xoid.dev">xoid.dev</a> for detailed docs and recipes.
 
 - [xoid vs useReducer vs useMethods](https://githubbox.com/xoidlabs/xoid/tree/master/examples/xoid-vs-usereducer-vs-usemethods) [![Open in CodeSandbox](https://img.shields.io/badge/Open%20in-CodeSandbox-blue?style=flat&colorA=4f2eb3&colorB=4f2eb3&logo=codesandbox)](https://githubbox.com/xoidlabs/xoid/tree/master/examples/xoid-vs-usereducer-vs-usemethods)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/xoidlabs/xoid)
+
 
 
 ## Quick Tutorial
